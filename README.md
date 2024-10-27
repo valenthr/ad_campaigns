@@ -47,5 +47,5 @@ For each ad campaign was calculated: spends, impressions, clicks, income, CPM, R
 ## Source and utm campaigns comparison
 
 For each source (google and facebook) was calculated the same metrics as for campaigns, query are in the "Script_source_comparison". 
-For each utm campaign was calculated the same metrics and were compared with results in previous month. Query are in "Script-advertising_2".
+For each utm campaign was calculated the same metrics and were compared with results in previous month. Query are in "Script-advertising_2". Also was calculated a rating of each campaign by month based on metric values (in "Script-advertising_3").
 
