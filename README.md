@@ -38,7 +38,7 @@ SQL, Looker studio.
 
 ## Goals
 
-The main goal is to identify the most successful advertising campaign.
+The main goal is to boost advertising strategies, and optimize marketing efforts.
 
 ## What metrics were observed
 
