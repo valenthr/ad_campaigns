@@ -1,4 +1,4 @@
-# Advertising campaigns analysis
+# Analysis of marketing campaigns
 
 ## Data
 
